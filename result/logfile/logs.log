@@ -1,0 +1,47 @@
+2023-08-18 15:17:32,147 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:17:32,147 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:17:32,147 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:17:32,147 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:17:32,148 - logs… - INFO - *********TEST END*********
+2023-08-18 15:18:44,080 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:19:57,508 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:19:57,514 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:19:57,514 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:19:57,514 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:19:57,514 - logs… - INFO - *********TEST END*********
+2023-08-18 15:20:07,438 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:20:07,439 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:20:07,439 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:20:07,439 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:20:07,439 - logs… - INFO - *********TEST END*********
+2023-08-18 15:20:21,424 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:20:21,425 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:20:21,425 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:20:21,425 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:20:21,425 - logs… - INFO - *********TEST END*********
+2023-08-18 15:23:31,080 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:23:31,080 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:23:31,080 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:23:31,080 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:23:31,081 - logs… - INFO - *********TEST END*********
+2023-08-18 15:27:42,335 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:27:42,336 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:27:42,336 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:27:42,336 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:27:42,336 - logs… - INFO - *********TEST END*********
+2023-08-18 15:28:07,581 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result\report\report.html
+2023-08-18 15:28:07,582 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile\caselist.txt
+2023-08-18 15:28:07,582 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:28:07,582 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile\\caselist.txt'
+2023-08-18 15:28:07,582 - logs… - INFO - *********TEST END*********
+2023-08-18 15:28:49,457 - logs… - INFO - result_path：C:\Users\lj\Desktop\接口自动化\API_long1\result/report\report.html
+2023-08-18 15:28:49,457 - logs… - INFO - case_list_path：C:\Users\lj\Desktop\接口自动化\API_long1\testFile/caselist.txt
+2023-08-18 15:28:49,457 - logs… - INFO - case_file：C:\Users\lj\Desktop\接口自动化\API_long1\case
+2023-08-18 15:28:49,457 - logs… - DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\lj\\Desktop\\接口自动化\\API_long1\\testFile/caselist.txt'
+2023-08-18 15:28:49,457 - logs… - INFO - *********TEST END*********
+2023-08-18 15:58:23,696 - logs… - INFO - STATUS传值为1......测试开始......
+2023-08-18 15:58:23,697 - logs… - INFO - STATUS传值为1......测试结束......
+2023-08-18 15:58:23,704 - logs… - INFO - STATUS传值为0......测试开始......
+2023-08-18 15:58:23,705 - logs… - INFO - STATUS传值为0......测试结束......
+2023-08-18 15:58:23,709 - logs… - INFO - STATUS传值为空......测试开始......
+2023-08-18 15:58:23,710 - logs… - INFO - STATUS传值为空......测试结束......
